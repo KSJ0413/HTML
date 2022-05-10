@@ -58,5 +58,5 @@ ID : <input class = 'id' type="text" placeholder="아이디를 입력해주시�
 * **action **: 서버 주소;
 * **method **:전송방식 지정;(위에 나와 있듯이 GET, POST)
 
-1
+
 
